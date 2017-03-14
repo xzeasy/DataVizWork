@@ -1,4 +1,4 @@
 # DataVizWork
 
-Link to public site: https://xzeasy.github.io/DataVizWork/
+Link to live public site: https://xzeasy.github.io/DataVizWork/
 
